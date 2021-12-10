@@ -1,6 +1,6 @@
 # computer_science_for_ba
 ## Assignment for the course computer science for business analytics of Erasmus University of Rotterdam.
-Tamar de Haas 619082th@eur.nl
+Tamar de Haas 619082th
 
 ### Assignment explanation
 The task was to make a scalable solution for duplicate detection using LSH. After LSH I chose to do classification using Logistic Regression with. oversampling of the minority class of the train set, because the train set was very imbalenced.
